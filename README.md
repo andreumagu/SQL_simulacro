@@ -1,4 +1,4 @@
-#
+# Simulacro SQL
 
 1. Selecciona el título del libro que se prestó por primera vez hace más tiempo.
 
